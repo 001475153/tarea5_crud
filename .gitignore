@@ -1,0 +1,29 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Archivos binarios y compilados
+bin/
+obj/
+
+# Archivos de configuración
+*.dbmdl
+*.log
+*.tlog
+*.ide
+*.cache
+
+# Archivos de paquete y dependencias
+*.nupkg
+*.nuget/
+*.psmdcp
+packages/
+node_modules/
